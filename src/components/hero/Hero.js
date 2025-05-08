@@ -27,7 +27,7 @@ const Hero = () => {
           <div className="flex items-center gap-6 flex-wrap justify-center md:justify-start">
             {/* Glowing Button */}
             <a
-  href="#contact" // Or your desired destination
+  href="/contact" // Or your desired destination
   className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-gradient-to-r from-orange-600 to-orange-400 text-white font-semibold shadow-lg hover:brightness-110 transition-all duration-300 animate-pulse-slow cursor-pointer"
 >
 Request Your Free Demo
